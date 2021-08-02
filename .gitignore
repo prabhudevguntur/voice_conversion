@@ -1,6 +1,0 @@
-src/__pycache__
-.*
-src/out_train
-src/out_infer
-src/out_eval
-data
